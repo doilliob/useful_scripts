@@ -1,0 +1,12 @@
+C:\Users\egor\Documents\GIT\FISGIA_TO_ASURSO\src\GIAToASURSOConverter\bin\Release\GIAToASURSOConverter.exe
+C:\Users\egor\Documents\GIT\FISGIA_TO_ASURSO\src\GIAToASURSOConverter\bin\Release\GIAToASURSOConverter.pdb
+C:\Users\egor\Documents\GIT\FISGIA_TO_ASURSO\src\GIAToASURSOConverter\obj\Release\GIAToASURSOConverter.csproj.ResolveComReference.cache
+C:\Users\egor\Documents\GIT\FISGIA_TO_ASURSO\src\GIAToASURSOConverter\obj\Release\GIAToASURSOConverter.Form1.resources
+C:\Users\egor\Documents\GIT\FISGIA_TO_ASURSO\src\GIAToASURSOConverter\obj\Release\GIAToASURSOConverter.forms.Progressor.resources
+C:\Users\egor\Documents\GIT\FISGIA_TO_ASURSO\src\GIAToASURSOConverter\obj\Release\GIAToASURSOConverter.log.LogForm.resources
+C:\Users\egor\Documents\GIT\FISGIA_TO_ASURSO\src\GIAToASURSOConverter\obj\Release\GIAToASURSOConverter.Properties.Resources.resources
+C:\Users\egor\Documents\GIT\FISGIA_TO_ASURSO\src\GIAToASURSOConverter\obj\Release\GIAToASURSOConverter.csproj.GenerateResource.Cache
+C:\Users\egor\Documents\GIT\FISGIA_TO_ASURSO\src\GIAToASURSOConverter\obj\Release\GIAToASURSOConverter.csproj.CoreCompileInputs.cache
+C:\Users\egor\Documents\GIT\FISGIA_TO_ASURSO\src\GIAToASURSOConverter\obj\Release\GIAToASURSOConverter.exe
+C:\Users\egor\Documents\GIT\FISGIA_TO_ASURSO\src\GIAToASURSOConverter\obj\Release\GIAToASURSOConverter.pdb
+C:\Users\egor\Documents\GIT\FISGIA_TO_ASURSO\src\GIAToASURSOConverter\obj\Release\GIAToASURSOConverter.csprojAssemblyReference.cache
